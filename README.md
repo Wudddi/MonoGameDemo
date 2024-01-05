@@ -32,4 +32,4 @@ This code is strictly for educational and reference purposes only. Any commercia
 
 ## Class Diagram
 Below is the class diagram that outlines the structure of our game:
-![Class Diagram](path/to/class-diagram.png)
+![Class Diagram](class-diagram.png)
