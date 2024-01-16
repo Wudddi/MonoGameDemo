@@ -33,3 +33,13 @@ This code is strictly for educational and reference purposes only. Any commercia
 ## Class Diagram
 Below is the class diagram that outlines the structure of our game:
 ![Class Diagram](class-diagram.png)
+
+## Game panel
+Here are some of the interfaces in this game:
+- **The menu of the game**:
+![Game menu](GameMenu.png)
+- **The instruction of the game**:
+![Game Instruction](GameInstruction.png)
+- **The play sence of the game**:
+![Game Panel](GamePanel.png)
+
