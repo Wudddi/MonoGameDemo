@@ -37,9 +37,10 @@ Below is the class diagram that outlines the structure of our game:
 ## Game panel
 Here are some of the interfaces in this game:
 - **The menu of the game**:
+  
 ![Game menu](GameMenu.png)
 - **The instruction of the game**:
 ![Game Instruction](GameInstruction.png)
-- **The play sence of the game**:
+- **The play sense of the game**:
 ![Game Panel](GamePanel.png)
 
